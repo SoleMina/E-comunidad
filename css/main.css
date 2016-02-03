@@ -1,0 +1,572 @@
+
+header {
+	padding-left: 10px;
+	color: white;
+	text-decoration: none;
+	position: relative;
+	left: -150px;
+}
+nav ul {
+	list-style-type: none;
+	padding-right: 20px;
+	margin: 10px;
+	display: inline-block;
+	font-size: 16px;
+	text-decoration: none;
+	float: right;
+}
+nav li {
+	position: relative;
+	right: -580px;
+	bottom: -40px;
+	float: left;
+	padding-right: 55px;
+}
+nav a{
+	text-decoration: none;
+	padding: 10px;
+	color: black;
+	font-family: Arial;
+	font-size: 17px;
+}
+.logo {
+	width: 100px;
+	height: 100px;
+	position: relative;
+	right: -100px;
+	top: -30px;
+}
+.header {
+	width: 1800px;
+	position: relative;
+	top: -20px;
+}
+.caja {
+	background: #F2F2F2;
+	width: 1800px;
+	height: 220px;
+	position: relative;
+	left: -155px;
+	top: -25px;
+}
+.caja p{
+	position: relative;
+	bottom: -90px;
+	text-align: center;
+	padding-right: 300px;
+	padding-left: 300px;
+}
+.icono1 {
+	position: relative;
+	right: -180px;
+	bottom: -70px;
+}
+.icono2 {
+	position: relative;
+	right: -630px;
+	bottom: -70px;
+}
+.texto {
+	position: relative;
+	right: -220px;
+	bottom: -70px;
+}
+h2 {
+	position: relative;
+	right: -680px;
+	bottom: -70px;
+}
+.parrafo {
+	position: relative;
+	left: -60px;
+	bottom: -90px;
+	width: 640px;
+	text-align: center;
+	color: #4D4D4D;
+}
+.parrafo1 {
+	position: relative;
+	right: -390px;
+	bottom: -90px;
+	width: 680px;
+	text-align: center;
+	color: #4D4D4D;
+}
+.imagen {
+    width: 900px;
+    height: 420px;
+    position: relative;
+    bottom: -190px;
+    left: -150px;
+}
+.imagen1 {
+    width: 900px;
+    height: 420px;
+    position: relative;
+    bottom: -190px;
+    right: -275px;
+}
+.subclase h2 {
+	position: relative;
+	bottom: -150px;
+}
+.metodologia {
+	position: relative;
+	top: -150px;
+	right: -700px;
+}
+h3 {
+	position: relative;
+    right: -680px;
+    top: -20px;
+    color: white;
+}
+
+.logito {
+	width: 700px;
+	position: relative;
+	right: -400px;
+	top: -40px;
+	color: white;
+	text-align: center;
+}
+.parrafo2 {
+	width: 1000px;
+	position: relative;
+	bottom: -200px;
+	right: -200px;
+	text-align: center;
+}
+h4 {
+	position: relative;
+	bottom: -300px;
+	width: 170px;
+	text-align: center;
+	font-size: 18px;
+	color: #5E8039;
+}
+.imagenes {
+	position: relative;
+	bottom: -300px;
+	right: -40px;
+}
+.imagenes1 {
+	position: relative;
+	bottom: -300px;
+	right: -340px;
+}
+.imagenes2 {
+	position: relative;
+	bottom: -300px;
+	right: -580px;
+}
+.col-4 p {
+	position: relative;
+	bottom: -330px;
+	width: 400px;
+	font-size: 14px;
+	text-align: center;
+}
+.educacion {
+	position: relative;
+	right: -20px;
+}
+.mitigacion {
+	position: relative;
+	right: -330px;
+}
+.bienestar {
+	position: relative;
+	right: -570px;
+}
+.parrafo3 {
+	position: relative;
+	left: -50px;
+}
+.parrafo4 {
+	position: relative;
+	right: -230px;
+}
+.parrafo5 {
+	position: relative;
+	right: -480px;
+}
+
+.imagenes3 {
+	position: relative;
+	bottom: -440px;
+	right: -40px;
+}
+.imagenes4 {
+	position: relative;
+	bottom: -440px;
+	right: -340px;
+}
+.imagenes5 {
+	position: relative;
+	bottom: -440px;
+	right: -580px;
+}
+.seguridad {
+	position: relative;
+	left: -50px;
+	bottom: -440px;
+}
+.agua {
+	position: relative;
+	right: -340px;
+	bottom: -440px;
+}
+.agricultura {
+	position: relative;
+	right: -610px;
+	bottom: -440px;
+}
+.cuadro {
+	position: relative;
+	bottom: -150px;
+	left: -10px;
+}
+.parrafo6 {
+	position: relative;
+	left: -50px;
+	bottom: -200px;
+}
+.parrafo7 {
+	position: relative;
+	right: -230px;
+}
+.parrafo8 {
+	position: relative;
+	right: -510px;
+}
+h5 {
+	position: relative;
+	bottom: -300px;
+	font-size: 18px;
+	color: #5E8039;
+	width: 500px;
+}
+.social {
+	width: 650px;
+	height: 400px;
+	position: relative;
+	bottom: -80px;
+	right: -200px;
+}
+
+.container1 {
+	position: relative;
+	bottom: -600px;
+	left: -130px;
+	background: #5E8039;
+	height: 1000px;
+	width: 1780px;
+}
+h6 {
+	position: relative;
+	bottom: -70px;
+	right: -200px;
+	font-size: 25px;
+	color: white;
+}
+h1 {
+	position: relative;
+	right: -1150px;
+	top: -300px;
+	color: white;
+}
+.encabezado {
+	font-size: 20px;
+	font-weight: bold;
+}
+.container1 p {
+	position: relative;
+	right: -1050px;
+	top: -300px;
+	width: 500px;
+	text-align: center;
+	color: white;
+}
+.carro {
+	width: 650px;
+	height: 400px;
+	position: relative;
+	right: -200px;
+	top: -50px;
+}
+.foto {
+	position: relative;
+	bottom: -700px;
+	right: -200px;
+	border-radius: 200px;
+}
+.foto1 {
+	position: relative;
+	bottom: -700px;
+	right: -500px;
+	border-radius: 200px;
+}
+
+.textos {
+	position: relative;
+	bottom: -660px;
+	left: -10px;
+}
+.nombre {
+	position: relative;
+	bottom: -700px;
+	right: -260px;
+	font-size: 24px;
+	font-weight: bold;
+}
+.nombre1 {
+	position: relative;
+	bottom: -720px;
+    right: -550px;
+	font-size: 24px;
+	font-weight: bold;
+}
+.cargo {
+	color: black;
+	position: relative;
+	right: -260px;
+	bottom: -700px;
+}
+.cargo1 {
+	color: black;
+	position: relative;
+	bottom: -720px;
+	right: -560px;
+}
+.parrafos {
+	position: relative;
+	bottom: -700px;
+    right: -100px;
+	text-align: center;
+}
+.parrafos1 {
+	position: relative;
+	bottom: -720px;
+    right: -420px;
+	text-align: center;
+}
+.redes {
+	margin: 7px;
+	.width: 40px;
+	height: 40px;
+	position: relative;
+	bottom: -740px;
+	right: -250px;
+}
+.redes1 {
+	margin: 7px;
+	.width: 40px;
+	height: 40px;
+	position: relative;
+	bottom: -765px;
+	right: -570px;
+}
+.cajafinal {
+	width: 1800px;
+	height: 650px;
+	background-image: url("../img/fondo2.jpg");
+	background-repeat: repeat;
+	position: relative;
+	bottom: -850px;
+	left: -140px;
+}
+.imgfinal {
+	width: 420px;
+	height: 300px;
+	position: relative;
+	bottom: -90px;
+	right: -130px;
+}
+.imgfinal1 {
+	width: 420px;
+	height: 300px;
+	position: relative;
+	bottom: -115px;
+	right: -90px;
+}
+.imgfinal2 {
+	width: 420px;
+	height: 300px;
+	position: relative;
+	bottom: -110px;
+	right: -50px;
+}
+.parrafeando {
+	position: relative;
+	top: -200px;
+	right: -90px;
+}
+.parrafeando1 {
+	position: relative;
+	top: -200px;
+	right: -120px;
+}
+.parrafeando1 p{
+	text-align: left;
+	position: relative;
+	right: -10px;
+}
+.parrafeando2 {
+	position: relative;
+	top: -200px;
+	right: -50px;
+}
+.parrafeando2 p {
+    text-align: left;
+}
+.parrafeando p{
+	text-align: left;
+}
+.cajita {
+	position: relative;
+	bottom: -30px;
+	left: -550px;
+}
+.cajita1 {
+	position: relative;
+	bottom: -50px;
+	left: -590px;
+}
+.cajita2 {
+	position: relative;
+	bottom: -40px;
+	left: -630px;
+}
+.slider {
+	position: relative;
+	left: -70px;
+	bottom: -20px;
+	width: 50px;
+	height: 50px;
+}
+.slider1 {
+	position: relative;
+    right:-460px;
+	width: 50px;
+	height: 50px;
+}
+.h4 {
+	color: #4D4D4D;
+	position: relative;
+	bottom: -99px;
+	right: -90px;
+}
+.h5  {
+	color: #4D4D4D;
+	position: relative;
+	bottom: -120px;
+	right: -50px;
+}
+.h6  {
+	color: #4D4D4D;
+	position: relative;
+	bottom: -110px;
+	right: -12px;
+}
+
+.blog {
+	position: relative;
+	bottom: -20px;
+	left: -600px;
+	color: black;
+	font-weight: bold;
+}
+footer  {
+	background: #4D4D4D;
+	width: 1800px;
+	height: 480px;
+	position: relative;
+	bottom: -850px;
+	left: -140px;
+	display: inline-block;
+}
+.final {
+	width: 400px;
+	height: 300px;
+	border: 1px solid white;
+	display: inline-block;
+	position: relative;
+	right: -140px;
+	bottom: -100px;
+}
+.final1 {
+	width: 400px;
+	height: 300px;
+	border: 1px solid white;
+	display: inline-block;
+	position: relative;
+	right: -135px;
+	bottom: -100px;
+}
+.final2 {
+	width: 400px;
+	height: 300px;
+	border: 1px solid white;
+	display: inline-block;
+	position: relative;
+	right: -130px;
+	bottom: -100px;
+}
+.final3 {
+	width: 400px;
+	height: 300px;
+	border: 1px solid white;
+	display: inline-block;
+	position: relative;
+	right: -125px;
+	bottom: -100px;
+}
+.center {
+	position: relative;
+	left: -35px;
+}
+footer p {
+	color: white;
+	font-size: 25px;
+	position: relative;
+	bottom: -30px;
+	right: -20px;
+}
+.logofinal {
+	width: 55px;
+	height: 50px;
+	position: relative;
+	bottom: -200px;
+	right: -130px;
+}
+.containerfinalizado {
+	width: 1800px;
+	height: 250px;
+	background: #F2F2F2;
+	position: relative;
+	bottom: -850px;
+	left: -155px;
+}
+.textofinal5 {
+	position: relative;
+	bottom: -100px;
+	right: -90px;
+}
+.laboratoria {
+	color: #F7CC63;
+	font-weight: bold;
+}
+.textofinal6 {
+	position: relative;
+	bottom: -80px;
+	right: -1500px;
+	font-weight: bold;
+}
+.finaltotal{
+	text-decoration: none;
+	color: black;
+	position: relative;
+	bottom: -90px;
+	right: -1580px;
+}
